@@ -1,0 +1,209 @@
+2022-03-22 22:46:07,756 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 22:46:19,143 django.request WARNING  Not Found: /
+2022-03-22 22:46:19,595 django.request WARNING  Not Found: /
+2022-03-22 22:46:19,861 django.request WARNING  Not Found: /favicon.ico
+2022-03-22 22:46:43,144 django.request WARNING  Not Found: /
+2022-03-22 22:46:43,728 django.request WARNING  Not Found: /
+2022-03-22 22:46:44,076 django.request WARNING  Not Found: /
+2022-03-22 22:46:44,397 django.request WARNING  Not Found: /
+2022-03-22 22:46:44,573 django.request WARNING  Not Found: /
+2022-03-22 22:46:44,784 django.request WARNING  Not Found: /
+2022-03-22 22:46:44,941 django.request WARNING  Not Found: /
+2022-03-22 22:46:47,066 django.request WARNING  Not Found: /
+2022-03-22 22:46:57,188 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 22:46:58,591 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 22:47:08,310 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 22:47:09,378 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 22:47:16,501 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 22:47:17,748 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 22:47:18,067 django.request WARNING  Not Found: /
+2022-03-22 22:47:20,600 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 22:47:21,606 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 22:47:23,540 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 22:47:24,547 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 22:47:24,751 django.request WARNING  Not Found: /
+2022-03-22 22:47:27,565 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 22:47:28,748 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 22:47:31,779 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 22:47:32,704 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 22:53:04,703 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 22:53:07,698 django.request WARNING  Not Found: /
+2022-03-22 22:53:08,550 django.request WARNING  Not Found: /
+2022-03-22 22:53:09,228 django.request WARNING  Not Found: /
+2022-03-22 22:53:09,932 django.request WARNING  Not Found: /
+2022-03-22 22:53:10,544 django.request WARNING  Not Found: /
+2022-03-22 22:53:11,088 django.request WARNING  Not Found: /
+2022-03-22 22:53:11,643 django.request WARNING  Not Found: /
+2022-03-22 22:53:12,187 django.request WARNING  Not Found: /
+2022-03-22 22:54:08,738 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 22:59:52,903 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:00:19,180 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:00:20,431 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:00:23,751 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:00:24,785 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:00:32,205 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:00:33,515 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:00:54,876 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:00:55,911 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:01:32,222 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:01:33,742 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:01:45,342 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 23:01:46,617 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:01:50,885 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 23:01:51,952 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:02:46,327 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\api.py changed, reloading.
+2022-03-22 23:02:47,606 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:02:50,421 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 23:02:51,766 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:04:23,312 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:04:24,316 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:04:36,089 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:04:37,483 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:04:44,206 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:04:45,547 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:06:12,784 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:06:14,023 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:06:18,235 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:06:19,504 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:07:07,851 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:07:08,897 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:07:17,239 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:07:18,393 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:07:20,712 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:07:22,239 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:07:41,786 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:07:42,706 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:07:56,596 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:07:57,673 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:07:59,955 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:08:01,242 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:08:09,029 django.request WARNING  Unprocessable Entity: /api/auth/login
+2022-03-22 23:08:40,558 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:08:41,654 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:08:49,024 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:08:50,134 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:09:10,656 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:09:11,555 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:09:39,142 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:09:40,317 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:09:45,722 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:09:46,859 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:10:05,270 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:10:06,381 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:10:45,498 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:10:46,936 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:10:54,347 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:10:55,568 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:11:02,917 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:11:03,925 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:11:16,526 django.request WARNING  Unauthorized: /api/auth/login
+2022-03-22 23:11:42,104 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:11:43,121 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:12:12,139 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:12:13,283 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:13:07,469 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:13:08,609 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:13:12,926 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:13:13,803 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:13:24,912 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:13:26,146 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:13:37,881 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:13:38,849 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:13:41,977 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:13:43,243 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:14:27,726 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:14:28,743 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:14:46,522 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:14:47,563 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:14:50,961 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:14:52,025 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:15:01,511 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:15:02,773 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:15:08,960 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:15:10,073 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:15:18,586 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 23:15:19,743 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:15:30,391 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:15:31,572 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:15:50,771 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 23:15:52,331 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:17:47,870 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:19:16,226 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 23:19:19,058 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:19:21,779 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:19:22,779 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:19:30,666 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 23:19:31,820 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:19:45,122 django.request WARNING  Not Found: /api/docs
+2022-03-22 23:20:35,678 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 23:20:36,915 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:20:38,849 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:20:39,899 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:20:51,902 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 23:20:53,046 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:23:03,687 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\urls.py changed, reloading.
+2022-03-22 23:23:05,185 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:23:12,062 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:23:12,902 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:34:01,546 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:34:48,830 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:35:32,493 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:36:01,135 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:46:49,021 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:47:03,063 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:48:09,936 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\serializers.py changed, reloading.
+2022-03-22 23:48:11,118 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:48:21,842 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\serializers.py changed, reloading.
+2022-03-22 23:48:22,928 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:48:35,932 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\serializers.py changed, reloading.
+2022-03-22 23:48:37,012 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:49:07,616 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\serializers.py changed, reloading.
+2022-03-22 23:49:08,797 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:50:06,710 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:52:19,798 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:52:49,962 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\urls.py changed, reloading.
+2022-03-22 23:52:51,183 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:53:32,782 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:55:05,220 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:55:06,490 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:55:46,642 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:56:22,903 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:56:24,034 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:56:48,718 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:56:49,868 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:58:29,066 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:58:30,381 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:58:50,839 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:58:51,870 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:58:53,556 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:58:54,857 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-22 23:59:04,966 django.request WARNING  Unauthorized: /api/auth/login
+2022-03-22 23:59:20,543 django.request WARNING  Unauthorized: /api/auth/login
+2022-03-22 23:59:42,994 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-22 23:59:44,154 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-23 00:00:29,629 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-23 00:00:30,690 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-23 00:00:54,703 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-23 00:00:55,756 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-23 00:01:22,474 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-23 00:01:23,562 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-23 00:01:34,531 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-23 00:01:35,626 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-23 00:01:37,983 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-23 00:01:39,133 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-23 00:01:41,328 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-23 00:01:42,409 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-23 00:02:01,143 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-23 00:02:02,395 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-23 00:02:09,277 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-23 00:02:10,528 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-23 00:02:14,767 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-23 00:02:15,718 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-23 00:03:28,743 django.utils.autoreload INFO     E:\Python\Django\packfords\packfords\settings.py changed, reloading.
+2022-03-23 00:03:30,391 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-23 00:03:37,971 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\views.py changed, reloading.
+2022-03-23 00:03:39,935 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-23 00:04:57,802 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\schemas.py changed, reloading.
+2022-03-23 00:04:59,030 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-03-23 00:05:25,180 django.utils.autoreload INFO     E:\Python\Django\packfords\apps\authentication\schemas.py changed, reloading.
+2022-03-23 00:05:26,415 django.utils.autoreload INFO     Watching for file changes with StatReloader
