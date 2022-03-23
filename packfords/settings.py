@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-cdckn3n@+kv2yo91_4-d322rcq5(th3m6ux3u_4&ic4#46frax
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['127.0.0.1:8000','https://packfords.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1:8000','packfords.herokuapp.com']
 
 
 # Application definition
