@@ -31,6 +31,7 @@ schema_view = get_schema_view(
         terms_of_service="",
         contact=openapi.Contact(email="coderflare.py@gmail.com"),
         license=openapi.License(name=""),
+        API_BASE_URL= "https://packfords.herokuapp.com/api/",
     ),
     public=True,
     permission_classes=(permissions.AllowAny,),
