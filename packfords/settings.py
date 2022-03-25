@@ -97,10 +97,10 @@ WSGI_APPLICATION = 'packfords.wsgi.application'
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
+    # 'default': {
+    #     'ENGINE': 'django.db.backends.sqlite3',
+    #     'NAME': BASE_DIR / 'db.sqlite3',
+    # }
     # 'default': {
     #     'ENGINE': 'django.db.backends.mysql',
     #     'NAME': 'packfords',
@@ -109,6 +109,16 @@ DATABASES = {
     #     'HOST': 'localhost',
     #     'PORT': '3306',
     # },
+
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'decdsjau3napgh',
+        'USER': 'azceqgmkarcbou',
+        'PASSWORD': '1cfefc8575095a3337986aa33474b853da923c10fbd5066e40eec6865975bf31',
+        # Or an IP Address that your DB is hosted on
+        'HOST': 'ec2-18-215-96-22.compute-1.amazonaws.com',
+        'PORT': '5432',
+    }
 }
 
 
